@@ -1,6 +1,6 @@
 # HTML CSS Git Challenge: Code Refractor
 
-* Adjust the code 
+* Adjust the provided code to fit the acceptance criteria and to meet all of the client's requests. 
 
 ## Contributor
 
