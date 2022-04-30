@@ -3,7 +3,10 @@
 ## About 
 * A pre-made HTML and CSS file were provided for this project but needed some adjustments. The project needed to be adjusted to match the client's requests and follow accessibility standards. 
 
+## Built With
 
+* HTML
+* CSS
 
 ## Acceptance Criteria
 
