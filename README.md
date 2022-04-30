@@ -1,10 +1,9 @@
 # HTML CSS Git Challenge: Code Refractor
 
-* Adjust the provided code to fit the acceptance criteria and to meet all of the client's requests. 
+## About 
+* A pre-made HTML and CSS file were provided for this project but needed some adjustments. The project needed to be adjusted to match the client's requests and follow accessibility standards. 
 
-## Contributor
 
-* Jessica Wright
 
 ## Acceptance Criteria
 
@@ -19,3 +18,7 @@
 * It's done when the title element is concise and descriptive 
 
 ## Assets
+
+## Contributor
+
+Jessica Wright
