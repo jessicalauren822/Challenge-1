@@ -26,29 +26,29 @@ A pre-made HTML and CSS file were provided for this project but needed some adju
 
 ### Semantic elements added
 
-* Header class '<div>' element corrected to '<header>' element
+* Header class div element corrected to header element
 
-* unordered list '<div>' element corrected to '<nav>' element
+* unordered list div element corrected to nav element
 
-* Hero class '<div>' element corrected to '<section>' element
+* Hero class div element corrected to section element
 
-* Content class '<div>' element corrected to '<section>' element
+* Content class div element corrected to section element
 
-* search-engine-optimization class '<div>' element corrected to '<article>' element
+* search-engine-optimization class div element corrected to article element
 
-* online-reputation-management class '<div>' element corrected to '<article>' element
+* online-reputation-management class div element corrected to article element
 
-* social-media-marketing class '<div>' element corrected to '<article>' element
+* social-media-marketing class div element corrected to article element
 
-* Benefits class '<div>' element corrected to '<aside>' element
+* Benefits class div element corrected to aside element
 
-* benefit-lead class '<div>' element corrected to '<article>' element
+* benefit-lead class div element corrected to article element
 
-* benefit-brand class '<div>' element corrected to '<article>' element
+* benefit-brand class div element corrected to article element
 
-* benefit-cost class '<div>' element corrected to '<article>' element
+* benefit-cost class div element corrected to article element
 
-* Footer class '<div>' element corrected to '<footer>' element
+* Footer class div element corrected to footer element
 
 
 
