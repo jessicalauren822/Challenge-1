@@ -50,6 +50,24 @@ A pre-made HTML and CSS file were provided for this project but needed some adju
 
 * Footer class div element corrected to footer element
 
+### HTML Corrections
+
+* Comments add to provide structure. These include navigation, main content, right side content, and footer
+
+* Title element adjusted to be descriptive to the website
+
+* search-engine-optimization id added to search-engine-optimization class
+
+* Alt elements added to all three image under content class
+
+* Alt elements added to all three images under benefits class. Due to these images being for decoration purposes only, the alt is empty. 
+
+* Unnecessary ending img element under benefit-cost element removed
+
+* h2 under footer class corrected to h4 to follow the flow of the HTML
+
+* Space provided throughout html to allow code to be read and understood easily
+
 
 
 ## Contributor
