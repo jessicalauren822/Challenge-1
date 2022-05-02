@@ -70,7 +70,7 @@ A pre-made HTML and CSS file were provided for this project but needed some adju
 
 ## Final Website
 
-! [Final website screenshot] (/assets/images/website-screenshot.png)
+![Final website screenshot](/assets/images/website-screenshot.png)
 
 ## Contributor
 
