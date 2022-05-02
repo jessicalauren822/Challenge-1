@@ -68,7 +68,9 @@ A pre-made HTML and CSS file were provided for this project but needed some adju
 
 * Space provided throughout html to allow code to be read and understood easily
 
+## Final Website
 
+(./assets/images/website-screenshot.png)
 
 ## Contributor
 
